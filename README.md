@@ -59,12 +59,5 @@
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/padilha77/padilha77/output/github-contribution-grid-snake.svg">
-</div>
-
----
-
 ## ⚡ Quote
 > "Consistency beats talent when talent doesn't work hard."
