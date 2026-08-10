@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Padilha</h1>
+<h1 align="center">Hi 👋, I'm João Paulo Ribas Padilha</h1>
 <h3 align="center">Software Engineering Student from Brazil 🇧🇷</h3>
 
 ---
