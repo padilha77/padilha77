@@ -1,63 +1,22 @@
-<h1 align="center">Hi 👋, I'm João Padilha</h1>
+# João Padilha
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+in+progress;Java+Learner;Future+Freelancer" />
-</p>
+Estudante de Engenharia de Software, em início de carreira e com foco em desenvolvimento backend com **Java e Spring Boot**.
 
-<h3 align="center">🇧🇷 From Brazil | Focused on Backend Development</h3>
+Aprendo construindo projetos e praticando orientação a objetos, APIs REST e testes.
 
----
+## Tecnologias que já usei
 
-## 💻 About Me
-- 🎓 Software Engineering student  
-- 💻 Focused on **Java & Backend Development**  
-- 📚 Learning **Data Structures, Arrays and Logic**  
-- 🔧 Using **Git, GitHub, IntelliJ, VS Code**  
-- 🎯 Goal: Become a **Freelance Developer**  
+**Java · Spring Boot**
 
----
+PostgreSQL · SQL · JavaFX · HTML · CSS · JavaScript  
+Git · Maven · Docker Compose · JUnit
 
-## 🧠 Currently Learning
-- Java (POO + Arrays)
-- Backend fundamentals
-- Problem solving
+## Projetos
 
----
+- [FinanceFlow](https://github.com/padilha77/financeFlow) — projeto de estudo de controle financeiro com Spring Boot, PostgreSQL e testes.
+- [Calculadora](https://github.com/padilha77/calculadoraIOS) — aplicação desktop em JavaFX, inspirada na calculadora do iOS.
+- [Portfólio](https://github.com/padilha77/meuPortfolio) — site pessoal em HTML, CSS e JavaScript.
 
-## 🚀 Tech Stack
-<div align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-</div>
+## Contato
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=padilha77&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padilha77&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=padilha77&theme=tokyonight" />
-</div>
-
----
-
-## 🌐 Connect with me
-<div align="center">
-  <a href="https://github.com/padilha77">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
----
-
-## ⚡ Quote
-> "Consistency beats talent when talent doesn't work hard."
+[LinkedIn](https://www.linkedin.com/in/joaopauloribaspadilha/) · [Instagram @devv.jota](https://www.instagram.com/devv.jota/)
