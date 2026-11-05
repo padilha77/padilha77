@@ -1,4 +1,4 @@
-# João Padilha
+# João Paulo Ribas Padilha
 
 Estudante de Engenharia de Software, em início de carreira e com foco em desenvolvimento backend com **Java e Spring Boot**.
 
