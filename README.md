@@ -13,6 +13,8 @@ Git · Maven · Docker Compose · JUnit
 
 ## Projetos
 
+- [AssistOS](https://github.com/padilha77/assistOS) — **em desenvolvimento (v0.1)**. Sistema para assistências técnicas em Java, com cadastro, listagem, busca, atualização e exclusão de clientes pelo terminal e armazenamento em memória. Evolução planejada para Spring Boot e PostgreSQL.
+
 - [FinanceFlow](https://github.com/padilha77/financeFlow) — projeto de estudo de controle financeiro com Spring Boot, PostgreSQL e testes.
 - [Calculadora](https://github.com/padilha77/calculadoraIOS) — aplicação desktop em JavaFX, inspirada na calculadora do iOS.
 - [Portfólio](https://github.com/padilha77/meuPortfolio) — site pessoal em HTML, CSS e JavaScript.
